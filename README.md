@@ -1,12 +1,10 @@
-# Cupboard
-{% include youtubePlayer.html id=page.youtubeId %}
-
+# Cupboard\
 ---
 youtubeId: 11igI0OJTjQ
 ---
-test video:
-<video src="https://www.youtube.com/watch?v=11igI0OJTjQ" width="320" height="200" controls preload></video>
 
+test video:
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Manage your foods, recipes, and shopping lists all in one convenient app!
 
