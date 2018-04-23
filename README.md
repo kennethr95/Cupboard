@@ -1,8 +1,6 @@
 # Cupboard
 
-[![Cupboard Video](_includes/TheGoodBoy.JPG)](https://www.youtube.com/embed/11igI0OJTjQ)
-
-<iframe width="1903" height="789" src="https://www.youtube.com/embed/11igI0OJTjQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Cupboard Video](_includes/TheGoodBoy.JPG)](https://www.youtube.com/watch?v=11igI0OJTjQ)
 
 Manage your foods, recipes, and shopping lists all in one convenient app!
 
