@@ -1,10 +1,24 @@
 # Cupboard
 
-{% include youtubePlayer.html id=page.youtubeId %}
-
 Manage your foods, recipes, and shopping lists all in one convenient app!
 
-## Installation:
+I couldn't tell you how many times I've forgotten which ingredients I have in my kitchen. When I go grocery shopping, I often accidentally buy something I may already have! And remember that cheese in the bottom drawer of the fridge? Me neither. I could have sworn that it had another week of life left in it. Yuck!
+
+Cupboard plans to solve these problems, as well as provide other functionality to drastically improve your cooking and shopping experience. With the Cupboard app, you will be able to keep track of foods you already have in your pantry, when they expire, and more. Having your ingredients stored inside your phone, you can go shopping with the peace of mind that you will not buy foods you already own. It is Cupboard's mission to save you time and money both inside the kitchen and out.
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+## Tutorial
+![](_includes/Screenshot_20180423-191724.png)
+
+## About
+Kyle Carhart - https://github.com/KMCGamer
+Will Wells - https://github.com/WillWells
+Jacob Strom - https://github.com/jmstrom
+Bradley McClain - https://github.com/BradleyMcClain
+Zak Slater - https://github.com/ZakSlater
+
+## Installation
 
 ### Android Studio
 Install [Android Studio.](https://developer.android.com/studio/index.html)
