@@ -1,5 +1,9 @@
 # Cupboard
+{% include youtubePlayer.html id=page.youtubeId %}
 
+---
+youtubeId: 11igI0OJTjQ
+---
 test video:
 <video src="https://www.youtube.com/watch?v=11igI0OJTjQ" width="320" height="200" controls preload></video>
 
