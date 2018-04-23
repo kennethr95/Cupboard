@@ -1,11 +1,6 @@
 # Cupboard
----
-youtubeId: 11igI0OJTjQ
----
 
-test video:
-{% include youtubePlayer.html id=page.youtubeId %}
-[![Cupboard Video](_includes/TheGoodBoy.JPG)](https://www.youtube.com/watch?v=11igI0OJTjQ "Cupboard video - Click to Watch!")
+[![Cupboard Video](_includes/TheGoodBoy.JPG)](https://www.youtube.com/watch?v=11igI0OJTjQ)
 
 Manage your foods, recipes, and shopping lists all in one convenient app!
 
