@@ -1,7 +1,8 @@
 # Cupboard
 
 test video:
-https://www.youtube.com/watch?v=11igI0OJTjQ
+<video src="https://www.youtube.com/watch?v=11igI0OJTjQ" width="320" height="200" controls preload></video>
+
 
 Manage your foods, recipes, and shopping lists all in one convenient app!
 
