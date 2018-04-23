@@ -9,14 +9,15 @@ Cupboard plans to solve these problems, as well as provide other functionality t
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ## Tutorial
-![](_includes/Screenshot_20180423-191724.png)
+<img src="_includes/Screenshot_20180423-191724.png" alt="hi" class="inline" width="400"/>
+
 
 ## About
-Kyle Carhart - https://github.com/KMCGamer
-Will Wells - https://github.com/WillWells
-Jacob Strom - https://github.com/jmstrom
-Bradley McClain - https://github.com/BradleyMcClain
-Zak Slater - https://github.com/ZakSlater
+[Kyle Carhart](https://github.com/KMCGamer)
+[Will Wells](https://github.com/WillWells)
+[Jacob Strom](https://github.com/jmstrom)
+[Bradley McClain](https://github.com/BradleyMcClain)
+[Zak Slater](https://github.com/ZakSlater)
 
 ## Installation
 
