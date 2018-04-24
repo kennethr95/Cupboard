@@ -53,10 +53,10 @@ Use shopping lists to keep track of what you need at the store. Click the red bu
 
 Meet the Devs!
 
-[Kyle Carhart](https://github.com/KMCGamer)
+[Kyle Carhart](https://github.com/KMCGamer) |
 [Will Wells](https://github.com/WillWells)
 
-[Jacob Strom](https://github.com/jmstrom)
+[Jacob Strom](https://github.com/jmstrom) |
 [Bradley McClain](https://github.com/BradleyMcClain)
 
 [Zak Slater](https://github.com/ZakSlater)
