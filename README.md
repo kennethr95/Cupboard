@@ -9,7 +9,21 @@ Cupboard plans to solve these problems, as well as provide other functionality t
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ## Tutorial
-<img src="https://i.imgur.com/Aro8eCg.png" alt="hi" width="300" />
+
+### 
+<img src="https://i.imgur.com/Aro8eCg.png" alt="hi" img align="left" width="200" />
+
+<img src="https://i.imgur.com/eVrGHoD.png" alt="hi" img align="center" width="200" />
+
+<img src="https://i.imgur.com/imGhgkh.png" alt="hi" img align="left" width="200" />
+
+<img src="https://i.imgur.com/GmxLyua.png" alt="hi" img align="center" width="200" />
+
+<img src="https://i.imgur.com/g0g2kTd.png" alt="hi" width="200" />
+
+<img src="https://i.imgur.com/bxQ1jmW.png" alt="hi" width="200" />
+
+<img src="https://i.imgur.com/Jexeyyy.png" alt="hi" width="200" />
 
 
 ## About
