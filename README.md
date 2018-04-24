@@ -9,7 +9,7 @@ Cupboard plans to solve these problems, as well as provide other functionality t
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ## Tutorial
-<img src="https://i.imgur.com/Aro8eCg.png" alt="hi2" width="300" />
+<img src="https://i.imgur.com/Aro8eCg.png" alt="hi" width="300" />
 
 
 ## About
