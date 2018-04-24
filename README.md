@@ -19,30 +19,44 @@ Open the navigation tray in the upper-left corner. Tapping the area at the top w
  
 <img src="https://i.imgur.com/eVrGHoD.png" alt="hi" style="inline" img align="center" width="200" />
 
- 
- ### Adding items to your cupboard
- 
-Open the navigation tray once again in the upper-left corner and head over to cupboard. Pressing the red button at the bottom will lead you to adding a new food screen. Input a name, expiration date, quantity, category, and description for your food. Alternativly, scan in the barcode with the camera button in the upper-right corner to fill in the data for you!
- 
-<img src="https://i.imgur.com/g0g2kTd.png" alt="hi" img align="left" width="200" />
- 
-<img src="https://i.imgur.com/GmxLyua.png" alt="hi" img align="center" width="200" />
- 
 
-<img src="https://i.imgur.com/imGhgkh.png" alt="hi"  width="200" />
+
+### The home screen
  
-<img src="https://i.imgur.com/bxQ1jmW.png" alt="hi" width="200" />
+The home screen displays your foods that are about to expire and the last lists you modified.
  
-<img src="https://i.imgur.com/Jexeyyy.png" alt="hi" width="200" />
+<img src="https://i.imgur.com/Jexeyyy.png" alt="hi" style="inline" width="200" />
+
+
+
+### Adding items to your cupboard
+
+Open the navigation tray once again in the upper-left corner and head over to cupboard. Clicking the red button at the bottom will lead you to adding a new food screen. Input a name, expiration date, quantity, category, and description for your food. Alternativly, scan in the barcode with the camera button in the upper-right corner to fill in the data for you! Change the quantity of each item as you use them by tapping on the number to the right of each.
  
+<img src="https://i.imgur.com/g0g2kTd.png" alt="hi" style="inline" img align="left" width="200" />
+ 
+<img src="https://i.imgur.com/GmxLyua.png" alt="hi" style="inline" img align="center" width="200" />
+
+
+
+### Shopping lists
+
+Use shopping lists to keep track of what you need at the store. Click the red button at the bottom to create a new shopping list. Enter each of your items on your list, pressing enter between each one. Once you've bought the item, simply check it off by tapping on the buttons on the left.
+
+<img src="https://i.imgur.com/imGhgkh.png" alt="hi" style="inline" img align="left"  width="200" />
+ 
+<img src="https://i.imgur.com/bxQ1jmW.png" alt="hi" style="inline" img align="center" width="200" />
+
+
 
 ## About
-[Kyle Carhart](https://github.com/KMCGamer)
 
+Meet the Devs!
+
+[Kyle Carhart](https://github.com/KMCGamer)
 [Will Wells](https://github.com/WillWells)
 
 [Jacob Strom](https://github.com/jmstrom)
-
 [Bradley McClain](https://github.com/BradleyMcClain)
 
 [Zak Slater](https://github.com/ZakSlater)
